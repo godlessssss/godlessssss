@@ -7,7 +7,7 @@ Hello, I'm godlesssss 👋
 </a>
 
 - 🖥️ Frontend:
-  - Vue.js / Angular
+  - React / Vue.js / Angular
   - TailwindCSS
   - Classic HTML / CSS / JS
 
